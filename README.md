@@ -1,6 +1,6 @@
 # Sudoku3D
 
-A solvable 3D sudoku board layed out onto all 6 faces of a cube. 
+A solvable 3D sudoku board layed out onto all 6 faces of a cube. Made in Unity.
 
 * Each face has a 4x4 grid of numbers.
 * The goal is to make each face and every possible ring on the X, Y, and Z axes to contain the numbers 1-16, each exactly once.
